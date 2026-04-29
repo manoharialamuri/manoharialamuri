@@ -1,3 +1,5 @@
+![alt text](<Blue Modern Professional LinkedIn Banner.png>)
+
 # 💫 About Me:
 I'm Currently Learning DevSecOps with Aws
 
