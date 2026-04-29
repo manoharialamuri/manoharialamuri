@@ -1,4 +1,4 @@
-![alt text](<Blue Modern Professional LinkedIn Banner.png>)
+![alt text](image.png)
 
 # 💫 About Me:
 I'm Currently Learning DevSecOps with Aws
