@@ -1,7 +1,7 @@
 ![alt text](image.png)
 
 # 💫 About Me:
-I'm Currently Learning DevSecOps with Aws
+DevOps Engineer | Building secure CI/CD pipelines with Kubernetes, Terraform & AWS | SonarQube | Trivy | Ansible
 
 
 ## 🌐 Socials:
