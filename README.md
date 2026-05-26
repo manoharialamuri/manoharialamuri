@@ -1,4 +1,4 @@
-![alt text](image.png)
+
 
 # 💫 About Me:
 DevOps Engineer | Building secure CI/CD pipelines with Kubernetes, Terraform & AWS | SonarQube | Trivy | Ansible
